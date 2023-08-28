@@ -2,6 +2,17 @@
 
 - <p>🖥 Estudante de Engenharia de Computação (UNICAMP)</p>
 - <p>📊 Atualmente pesquisando sobre Inteligência Artificial aplicada a Finanças (H.IAAC) </p>
+- <p>📖 Abaixo você encontra projetos que desenvolvi na faculdade! Esses projetos envolvem: 
+    <p>
+    - 📘 Estrutura de Dados
+    </p>
+    <p>
+    - 📙 Programação Orientada à Objetos
+    </p>
+    <p>
+    - 📕 Organização Básica de Computadores
+    </p>
+</p>
 <h2 align=center>
   📚 Stack
 </h2>
