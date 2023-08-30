@@ -1,7 +1,7 @@
 <h1 align=center> Caio Porto 😄</h1>
 
 - <p>🖥 Estudante de Engenharia de Computação (UNICAMP)</p>
-- <p>📊 Atualmente pesquisando sobre Inteligência Artificial e Ciência de dados aplicada a Finanças (H.IAAC) </p>
+- <p>📊 Atualmente pesquisando sobre Inteligência Artificial e Ciência de Dados aplicada a Finanças (H.IAAC) </p>
 - <p>📖 Abaixo você encontra projetos que desenvolvi na faculdade! Esses projetos envolvem: 
     <p>
     - 📘 Estrutura de Dados
