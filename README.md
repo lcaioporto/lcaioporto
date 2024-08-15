@@ -1,8 +1,8 @@
 <h1 align=center> Caio Porto 😄</h1>
 
 - <p>🖥 Computer Engineering student (UNICAMP)</p>
+- <p>💻 Currently working as a DevOps Engineer (Bosch Sensortec) </p>
 - <p>📊 Currently researching AI and Data Science applied to Finance (H.IAAC) </p>
-
 <h2 align=center>
   📚 Stack
 </h2>
