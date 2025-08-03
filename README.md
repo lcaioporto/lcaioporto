@@ -1,7 +1,7 @@
 <h1 align=center> Caio Porto 😄</h1>
 
-- <p>🖥 Computer Engineering student (UNICAMP)</p>
-- <p>📊 Researching AI and Data Science applied to Finance (H.IAAC) </p>
+Hello! I'm a Computer Engineering student at Unicamp, and I'm currently working as a ML Researcher Intern.
+
 <h2 align=center>
   📚 Stack
 </h2>
