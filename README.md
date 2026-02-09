@@ -2,7 +2,7 @@
 
 Hello! Welcome to my page!
 
-I'm a Final-year Computer Engineering Student at the [University of Campinas](https://unicamp.br/en/) (Brazil), and I'm currently working as an ML Researcher Intern at [Recod AI](https://recod.ai/).
+I'm a Final-year Computer Engineering Student at the [University of Campinas](https://unicamp.br/en/) (Brazil), and I'm currently working as an ML Research Intern at [Recod AI](https://recod.ai/).
 
 <h2 align=center>
   📚 Main Stack
